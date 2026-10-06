@@ -38,12 +38,12 @@ Trading journal con report COT della CFTC verificato settimana per settimana con
 <a href="https://intinijournaling.vercel.app">Live</a> · <a href="https://github.com/mattiaintini/trading-journal">Codice</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://riviera-residence-lab.vercel.app"><img src="assets/aer.png" alt="AER Residential lab"></a>
+<a href="https://mattiaintini.com"><img src="assets/render-yacht.jpg" alt="Render di uno yacht a ponti aperti"></a>
 <br><br>
-<b><a href="https://riviera-residence-lab.vercel.app">AER Residential lab</a></b><br>
-Gemello 3D navigabile di una residenza sul mare, in three.js. Ogni livello si apre, ogni stanza si ispeziona, in vista prospettica o tecnica, giorno e notte.
+<b>3D Visual Twins</b><br>
+Render fotorealistici di yacht e ville, con i ponti e i piani che si aprono uno per uno. Il cliente vede gli spazi interni prima di salire a bordo o di entrare in casa.
 <br><br>
-<a href="https://riviera-residence-lab.vercel.app">Live</a>
+<a href="https://mattiaintini.com">Vedi sul sito</a>
 </td>
 </tr>
 <tr>
@@ -73,9 +73,9 @@ La maggior parte del lavoro è per clienti e resta in repository privati. Qui tr
 
 <br>
 
-## 3D Visual Twins
+## Renders
 
-<img src="assets/renders.jpg" alt="Render fotorealistici di una villa sulla Riviera" width="100%">
+<img src="assets/renders.jpg" alt="Render fotorealistici di una villa e di uno yacht sulla Riviera" width="100%">
 
 <br>
 
